@@ -1,0 +1,2 @@
+# NoNameForAndroid
+No Name adalah sebuah game arcade yang dikembangkan menggunakan native java versi android pada IDE Netbeans di lingkungan Linux dan Mac OS X untuk desain grafis. Tujuan dari game* ini adalah menghabisi musuh sebanyak-banyaknya dalam waktu yang dibatasi. Pengembangan game ini dilakukan oleh Rio dan Febi Agil.   *Catatan : game ini masih minimalis belum 100% rampung masih banyak hal yang harus ditambah disana sini.
